@@ -34,9 +34,9 @@ The dataset is manually created for demonstration purposes and includes:
 3. **Inspected** the dataset: structure, data types, missing values.
 4. **Generated** descriptive statistics: mean, median, standard deviation.
 5. **Visualized** the data:
-   - **Histogram**: distribution of sales.
-   - **Scatter plot**: sales vs. temperature, color-coded by weather.
-   - **Bar chart**: average sales on sunny vs. non-sunny days.
+    **Histogram**: distribution of sales.
+    **Scatter plot**: sales vs. temperature, color-coded by weather.
+    **Bar chart**: average sales on sunny vs. non-sunny days.
 6. **Calculated** the correlation coefficient to quantify the relationship between temperature and sales.
 7. **Summarized** the key findings for business insights.
 
